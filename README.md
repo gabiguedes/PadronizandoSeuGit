@@ -1,6 +1,7 @@
-## ✅️ &nbsp; Migration Guide
+## ✅️ &nbsp; Migration Guide - Git
 
-This documentation is for Docz [v1](https://github.com/pedronauck/docz/pull/656). Follow our [migration guide](/MIGRATION_GUIDE.md) if you haven't upgraded your project yet.
+Essa pequena documentação. [v1] 
+Tem como objetivo deixar equipe de desenvolvimento padronizada com git.
 
 ## 🎩 &nbsp; Features
 
