@@ -103,25 +103,3 @@ That's it! Now you have some real badass documentation 👊
 ![](https://cdn-std.dprcdn.net/files/acc_649651/7RRXv)
 
 Any doubt? Check [our docs](http://docz.site) to see more about **Docz**!
-
-## 🤝 &nbsp; Contributions
-
-Contributions, issues and feature requests are very welcome.
-Please make sure to read the [Contributing Guide](/CONTRIBUTING.md) before making a pull request.
-
-## 💪🏻 &nbsp; Contributors
-
-This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-
-<a href="https://github.com/pedronauck/docz/graphs/contributors"><img src="https://opencollective.com/docz/contributors.svg?width=890&button=false" /></a>
-
-## 💭 &nbsp; Needing Help?
-
-If you need some help you can chat with us on [our Spectrum Community](https://spectrum.chat/docz), we have a great team who would be more than happy to help you:
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
-| [<img src="https://avatars3.githubusercontent.com/u/2029172?v=4" width="60px;" alt="Pedro Nauck"/><br /><sub><b>Pedro Nauck</b></sub>](https://github.com/pedronauck)<br />[💻](https://github.com/pedronauck/docz/commits?author=pedronauck "Code") [📖](https://github.com/pedronauck/docz/commits?author=pedronauck "Documentation") [🐛](https://github.com/pedronauck/docz/issues?q=author%3Apedronauck "Bug reports") [👀](#review-pedronauck "Reviewed Pull Requests") |
-| :---: |
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
