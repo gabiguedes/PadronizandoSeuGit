@@ -1,9 +1,23 @@
 ## ✅️ &nbsp; Migration Guide - Git
 
-Essa pequena documentação. [v1] 
+Essa pequena documentação. 
 Tem como objetivo deixar equipe de desenvolvimento padronizada com git.
 
-## 🎩 &nbsp; Features
+## 🎩 &nbsp; Features || Evolutivas
+
+- 🧘 **feature_78348-cheque-especial.** 
+- ⚡️ **evolutivas_78348-cheque-especial** 
+
+## 🎩 &nbsp; Hotfix || Corretivas emergenciais
+
+- 🧘 **Zero config and easy.** Don't worry about complex configurations steps.
+- ⚡️ **Blazing Fast.** Full hot reload support with webpack 4 and automatic code splitting.
+- 💅 **Easy to customize.** Create and use real customizable themes.
+- 📝 **[MDX](https://github.com/mdx-js/mdx) Based.** Write markdown enhanced by the power of components.
+- 🎛 **Pluggable.** Use plugins to manipulate and customise Docz to suit your needs.
+- 🔐 **Typescript Support.** Full support for TypeScript. Write your type definitions with no extra setup required.
+
+## 🎩 &nbsp; Bufix || Corretivas
 
 - 🧘 **Zero config and easy.** Don't worry about complex configurations steps.
 - ⚡️ **Blazing Fast.** Full hot reload support with webpack 4 and automatic code splitting.
