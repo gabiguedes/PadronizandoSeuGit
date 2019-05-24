@@ -28,13 +28,6 @@ Porém na local, qualquer desenvolvedor pode criar suas branches de backup ou de
 
 ### 🤔 &nbsp; Commits?
 
-Podemos ter padrão de commits também, como?
-
-Podemos vincular nossas tasks da nossa ferramenta de gerenciamento.
-
 - Importante! Commit com letras minúsculas, sem acentos, sem caracters especiais. TUDO EM PORTUGUÊS!
 
-Ex.: 
-
 - ⚡️ **task 25485 correcao menu pagamentos**
-- ⚡️ **subindo projeto modularizado do validacional**
