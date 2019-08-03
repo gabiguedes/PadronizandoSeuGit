@@ -1,6 +1,6 @@
 ## ✅️ Helpando - Git
 
-Essa pequena documentação, está em constante desenvolvimento.
+Em constante desenvolvimento.
 
 Aqui vai um lembrete, por favor não commite na **master** !
 
