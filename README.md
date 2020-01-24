@@ -21,6 +21,7 @@ Faça o que bem entender no seu ambiente local, por exemplo: crie branchs de bac
 ##### Muito melhor realizar um commit bem descritivo que você e sua equipe entenda, do que um inglês que pode ser legal, mas você não faz a mínima ideia do que escreveu.
 
 > Sinta-se tranquilo quando der um **git log**
+###### https://devhints.io/git-log
 > Tenha orgulho da mensagem do seu commit 
 
 ---
