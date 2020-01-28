@@ -14,7 +14,7 @@
 
 Faça o que bem entender no seu ambiente local, por exemplo: crie branchs de backup quando for fazer um rebase/merge. Na remote tente manter o padrão de nomeclatura, todos na equipe vai agradece! Quem sabe ganhe até um café por isso!!!
 
-#### 🤔 E o padrão de Commits?
+#### 🤔 E o padrão de commits?
 - Se você manda bem no inglês e sua equipe também, então mandem ver, commita tudo em inglês.
 - Se você não entende muito bem e faz isso aqui: **fix correcao do button que deu msg of error**. Por favor, faça os commits em português.
 
