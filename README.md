@@ -18,6 +18,10 @@ Faça o que bem entender no seu ambiente local, por exemplo: crie branchs de bac
 - Se você manda bem no inglês e sua equipe também, então mandem ver, commita tudo em inglês.
 - Se você não entende muito bem e faz isso aqui: **fix correcao do button que deu msg of error**. Por favor, faça os commits em português.
 
+#### CTRL + Z no commit ?
+- .
+- .
+
 ##### Muito melhor realizar um commit bem descritivo que você e sua equipe entenda, do que um inglês que pode ser legal, mas você não faz a mínima ideia do que escreveu.
 
 > Sinta-se tranquilo quando der um **git log**
