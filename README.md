@@ -20,18 +20,15 @@ Faça o que bem entender no seu ambiente local, por exemplo: crie branchs de bac
 
 #### Desfazendo commits
 - Não foi marcada pra commitar, ou seja não foi feito o **add**:
-&nbsp;
 ```git checkout -- arquivo```
-&nbsp;
+---
 - Desfazer uma alteração que foi marcada para commitar, ou seja foi feito o **add**
-&nbsp;
 ```git reset HEAD arquivo```
-&nbsp;
+---
 - Desfazer uma alteração que foi marcada para commitar e foi commitada!
-&nbsp;
 ```git log``` para ver o hash do commit, depois:
-&nbsp;
 ```git revert 49ghg434hghg434398sdhs``` isso irá criar um novo commit, desfazendo o revert
+---
 
 ##### Muito melhor realizar um commit bem descritivo que você e sua equipe entenda, do que um inglês que pode ser legal, mas você não faz a mínima ideia do que escreveu.
 
