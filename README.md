@@ -25,8 +25,9 @@ Exemplo abaixo:
 ---
 
 #### Sobre commit
-- Se você manda bem no inglês e sua equipe também, então mandem ver, commita tudo em inglês.
-- Se você não entende muito bem e faz isso aqui: **fix correcao do button que deu msg of error**. Por favor, faça os commits em português.
+> Se você manda bem no inglês e sua equipe também, então mandem ver, commita tudo em inglês.
+
+> Se você não entende muito bem e faz isso aqui: **fix correcao do button que deu msg of error**. Por favor, faça os commits em português.
 
 #### commit
 - Não foi marcada pra commitar, ou seja não foi feito o **add**:
