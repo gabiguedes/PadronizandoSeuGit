@@ -9,10 +9,10 @@
 ###  🎩 Sugestão para nomeclatura de branchs
 
 ##### 🎩 Features | Evolutivas
-- **feature_78348-cheque-especial.**
+- feature_78348-cheque-especial
 
 ##### 🎩  Bugfix | Corretivas
-- **fix_876767-cheque-especial-teladelistar**
+- fix_876767-cheque-especial-teladelistar
 
 Faça o que bem entender no seu ambiente local, por exemplo: crie branchs de backup quando for fazer um rebase/merge. Na remote tente manter o padrão de nomeclatura, todos na equipe vai agradece!
 
@@ -31,14 +31,17 @@ Exemplo abaixo:
 #### commit
 - Não foi marcada pra commitar, ou seja não foi feito o **add**:
 ```git checkout -- arquivo```
----
+
+
 - Desfazer uma alteração que foi marcada para commitar, ou seja foi feito o **add**
 ```git reset HEAD arquivo```
----
+
+
 - Desfazer uma alteração que foi marcada para commitar e foi commitada!
 ```git log``` para ver o hash do commit, depois:
 ```git revert 49ghg434hghg434398sdhs``` isso irá criar um novo commit, desfazendo o revert
----
+
+
 - Stash
   * para salvar as modificações em um local temporário, run command: ```git stash```
   * listar os stashs salvos, run command: ```git stash list```
