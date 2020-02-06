@@ -2,21 +2,27 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
+> Helpando Git, é indicado para quem já tem uma base de versionamento usando a ferramenta _GIT_
+
 > Aqui vai um lembrete, por favor não commite na branch master!
 
-###  🎩 Sugestão para nomeclatura de branch
+###  🎩 Sugestão para nomeclatura de branchs
 
-##### 🎩 Features - Evolutivas
+##### 🎩 Features | Evolutivas
 - **feature_78348-cheque-especial.**
 
 ##### 🎩  Bugfix | Corretivas
 - **fix_876767-cheque-especial-teladelistar**
 
-Faça o que bem entender no seu ambiente local, por exemplo: crie branchs de backup quando for fazer um rebase/merge. Na remote tente manter o padrão de nomeclatura, todos na equipe vai agradece! Quem sabe ganhe até um café por isso!!!
+Faça o que bem entender no seu ambiente local, por exemplo: crie branchs de backup quando for fazer um rebase/merge. Na remote tente manter o padrão de nomeclatura, todos na equipe vai agradece!
 
-> https://git-school.github.io/visualizing-git/ - para visualizar como os ramos/branches/linhas de desenvolvimento diferentes funcionam!
+> https://git-school.github.io/visualizing-git/ - para visualizar e _brincar_ como os ramos/branches/linhas de desenvolvimento diferentes funcionam!
+
+Exemplo abaixo:
 
 ![](/visualbranches.png)
+
+---
 
 #### Sobre commit
 - Se você manda bem no inglês e sua equipe também, então mandem ver, commita tudo em inglês.
