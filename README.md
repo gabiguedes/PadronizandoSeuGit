@@ -63,4 +63,10 @@ Veja que temos vários commits e temos uma hash única para cada commit, para mu
 
 ---
 
+### Ferramentas interessantes para trabalhar com git
+
+- git kraken: 
+- source tree:
+
+
 #### Quer deixar alguma ideia? Por gentileza, faça um pull request <3
