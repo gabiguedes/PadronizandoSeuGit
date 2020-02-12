@@ -50,6 +50,9 @@ Exemplo abaixo:
   * deletar stash, run command: ```git stash drop```
   * apply e remove stash, run command: ```git stash pop```
   
+- Unindo commits
+  * Vamos rebasiar, run command: ```git rebase -i HEAD~3```
+  
 ### Viagem no tempo - commit
 > Vamos iniciar com o, run command: ```git log --oneline```
 
