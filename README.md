@@ -53,6 +53,9 @@ Exemplo abaixo:
 - Unindo commits
   * Vamos rebasiar, run command: ```git rebase -i HEAD~3```
   
+- Pegando um commit específico e trazendo para branch atual
+  * Vamos rebasiar, run command: ```git cherry-pick hash_do_commit```
+  
 ### Viagem no tempo - commit
 > Vamos iniciar com o, run command: ```git log --oneline```
 
