@@ -53,6 +53,9 @@ Exemplo abaixo:
 - Unindo commits
   * Vamos rebasiar, run command: ```git rebase -i HEAD~3```
   * Irá abrir o editor padrão do seu PC, no meu caso o **VI**, selecione o commit para ser o __pick__, adicione __s__ no restante.
+  * Veja o exemplo da imagem a seguir:
+  
+![](/rebasei.png)  
   
 - Pegando um commit específico (de outra branch) e trazendo para branch atual
   * run command: ```git cherry-pick hash_do_commit```
