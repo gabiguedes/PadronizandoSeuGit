@@ -62,6 +62,8 @@ Exemplo abaixo:
   * Veja o exemplo da imagem a seguir:
   
 ![](/cherrypick.png)
+
+### Git bisect
   
 ### Viagem no tempo - commit
 > Vamos iniciar com o, run command: ```git log --oneline```
