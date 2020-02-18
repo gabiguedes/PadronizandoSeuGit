@@ -95,6 +95,11 @@ Veja que temos vários commits e temos uma hash única para cada commit, para mu
 
 ---
 
+### Encontrando quem/autor modificou tal arquivo 
+
+- Para encontrar quem modificou um arquivo: 
+  * run command: ```git blame nome_do_arquivo```
+
 ### Ferramentas interessantes para trabalhar com git
 
 - git kraken: 
