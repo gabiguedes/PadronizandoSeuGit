@@ -63,7 +63,24 @@ Exemplo abaixo:
   
 ![](/cherrypick.png)
 
-### Git bisect
+### Git bisect tutorial
+
+- Primeiro: 
+  * run command: ```git log --oneline```
+- Segundo: 
+  * run command: ```git bisect start```
+- Terceiro, indicar qual estado/qual commit a demanda está ruim/bugada/com alteração incorreta, por exemplo pegar o **HEAD**: 
+  * run command: ```git bisect bad HEAD```
+- Quarto, indicar qual estado/qual commit a demanda está correta/sem bugs, com alteração correta, por exemplo pegar o **UM HASH QUALQUER**: 
+  * run command: ```git bisect good c1273bf8```  
+  
+  > Dentro desses commits indicados ele vai buscando até eu determinar que: SIM, é esse!
+
+- Quinto, finalizando a busca 
+  * run command: ```git bisect reset```
+
+- Sexto, pegando hash do commit escolhido e depois faça um revert com esse hash
+  * run command: ```git show hash_commit```
   
 ### Viagem no tempo - commit
 > Vamos iniciar com o, run command: ```git log --oneline```
