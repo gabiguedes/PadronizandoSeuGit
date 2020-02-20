@@ -6,7 +6,11 @@
 
 > Aqui vai um lembrete, por favor não commite na branch master!
 
-###  🎩 Sugestão para nomeclatura de branchs
+### Branchs
+
+> branch master, é recomendável deixar somente o código finalizado, testado e pronto para produção.
+
+####  🎩 Sugestão para nomeclatura de branchs
 
 ##### 🎩 Features | Evolutivas
 - feature_78348-cheque-especial
