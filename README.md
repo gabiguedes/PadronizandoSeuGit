@@ -109,5 +109,8 @@ Veja que temos vários commits e temos uma hash única para cada commit, para mu
 - git kraken: 
 - source tree:
 
+### Git flow
+
+-iniciando...
 
 #### Quer deixar alguma ideia? Por gentileza, faça um pull request <3
