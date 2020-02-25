@@ -6,7 +6,7 @@
 
 > Aqui vai um lembrete, por favor não commite na branch master!
 
-### Branchs
+### Branchs 
 
 > branch master, é recomendável deixar somente o código finalizado, testado e pronto para produção.
 
@@ -17,6 +17,10 @@
 
 ##### 🎩  Bugfix | Corretivas
 - fix_876767-cheque-especial-teladelistar
+
+### Git flow | Branchs
+
+![](/gitflow.png)
 
 Faça o que bem entender no seu ambiente local, por exemplo: crie branchs de backup quando for fazer um rebase/merge. Na remote tente manter o padrão de nomeclatura, todos na equipe vai agradece!
 
@@ -108,9 +112,5 @@ Veja que temos vários commits e temos uma hash única para cada commit, para mu
 
 - git kraken: 
 - source tree:
-
-### Git flow
-
--iniciando...
 
 #### Quer deixar alguma ideia? Por gentileza, faça um pull request <3
