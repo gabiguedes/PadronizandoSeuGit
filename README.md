@@ -26,7 +26,7 @@
 
 ![](/gitflow.png)
 
-Faça o que bem entender no seu ambiente local, por exemplo: crie branchs de backup quando for fazer um rebase/merge. Na remote tente manter o padrão de nomeclatura, todos na equipe vai agradece!
+Faça o que bem entender no seu ambiente local, por exemplo: crie branchs de backup quando for fazer um rebase/merge. Na remote tente manter o padrão de nomeclatura, todos na equipe agradece!
 
 > https://git-school.github.io/visualizing-git/ - para visualizar e _brincar_ como os ramos/branches/linhas de desenvolvimento diferentes funcionam!
 
@@ -102,9 +102,8 @@ Veja que temos vários commits e temos uma hash única para cada commit, para mu
 ##### Muito melhor realizar um commit bem descritivo que você e sua equipe entenda, do que um inglês que pode ser legal, mas você não faz a mínima ideia do que escreveu.
 
 > Sinta-se tranquilo quando der um **git log**
+ 
 ###### https://devhints.io/git-log
-> Tenha orgulho da mensagem do seu commit 
-
 ---
 
 ### Encontrando quem/autor modificou tal arquivo 
@@ -114,7 +113,8 @@ Veja que temos vários commits e temos uma hash única para cada commit, para mu
 
 ### Ferramentas interessantes para trabalhar com git
 
-- git kraken: 
-- source tree:
+- git kraken 
+- source tree
+- git cola
 
 #### Quer deixar alguma ideia? Por gentileza, faça um pull request <3
