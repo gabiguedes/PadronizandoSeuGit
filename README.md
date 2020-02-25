@@ -15,8 +15,12 @@
 ##### 🎩 Features | Evolutivas
 - feature_78348-cheque-especial
 
+- feature/cheque-especial
+
 ##### 🎩  Bugfix | Corretivas
 - fix_876767-cheque-especial-teladelistar
+
+- fix/cheque-especial-teladelistar
 
 ### Git flow | Branchs
 
