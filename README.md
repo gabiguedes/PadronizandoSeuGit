@@ -4,7 +4,7 @@
 
 > Helpando Git, é indicado para quem já tem uma base de versionamento usando a ferramenta _GIT_
 
-> Aqui vai um lembrete, por favor não commite na branch master!
+> Por favor não commite na branch master!
 
 ### Branchs 
 
@@ -26,9 +26,9 @@
 
 ![](/gitflow.png)
 
-Faça o que bem entender no seu ambiente local, por exemplo: crie branchs de backup quando for fazer um rebase/merge. Na remote tente manter o padrão de nomeclatura, todos na equipe agradece!
+Crie branchs de backup quando for fazer um rebase/merge. Na remote tente manter o padrão de nomeclatura.
 
-> https://git-school.github.io/visualizing-git/ - para visualizar e _brincar_ como os ramos/branches/linhas de desenvolvimento diferentes funcionam!
+> https://git-school.github.io/visualizing-git/ - para visualizar e _brincar_ como os ramos/branches.
 
 Exemplo abaixo:
 
@@ -37,9 +37,9 @@ Exemplo abaixo:
 ---
 
 #### Sobre commit
-> Se você manda bem no inglês e sua equipe também, então mandem ver, commita tudo em inglês.
+> Se você manda bem no inglês e sua equipe também, e a mesma está de acordo, faça os commites em inglês.
 
-> Se você não entende muito bem e faz isso aqui: **fix correcao do button que deu msg of error**. Por favor, faça os commits em português.
+> Se você não entende muito bem inglês e faz isso aqui: **fix correcao do button**. Por favor, faça os commits em português e comece a estudar inglês isso irá agregar e muito na sua vida e carreira.
 
 #### commit
 - Não foi marcada pra commitar, ou seja não foi feito o **add**:
