@@ -117,4 +117,4 @@ Veja que temos vários commits e temos uma hash única para cada commit, para mu
 - source tree
 - git cola
 
-#### Sugestão? Por gentileza, abra uma issue <3
+#### Sugestão? Contribua <3
